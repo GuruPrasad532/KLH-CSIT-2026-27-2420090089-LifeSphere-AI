@@ -1,6 +1,6 @@
 LifeSphere AI
 AI-Powered Adaptive Personal Life Record and Digital Asset Management Platform
-Team Members University ID Name 2420030172 Parvatha Reddy Satwika Reddy 2420030482 Alla Sai Harsha 2420090064 Laxman 2420090089 Guru
+Team Members University ID Name 2420030172 Parvatha Reddy Satwika Reddy 2420030482 Alla Sai Harsha 2420090064 Laxman 2420090089 Beeram Guru Prasad Reddy
 Supervisor G. Lavanya
 Abstract
 LifeSphere AI is a web-based application designed to help users securely manage important personal documents, digital assets, subscriptions, warranties, and emergency information in one centralized platform.
